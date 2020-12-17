@@ -1,4 +1,4 @@
-# SK T아카데미 모두를 위한 기계번역
+# 기계번역 입문
 SK T아카데미 모두를 위한 기계번역 세미나 자료
 
 <br>[You Tube] https://www.youtube.com/playlist?list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N
